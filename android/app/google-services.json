@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "847846767808",
+    "project_id": "fyp-67889",
+    "storage_bucket": "fyp-67889.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847846767808:android:1aecf29f48db0e4a5d4125",
+        "android_client_info": {
+          "package_name": "com.fyp67889.antibullying_suicideprevention"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847846767808-0sr8ss3p1ai82qdaaiiv1t8nk905mi05.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxOFVrxrxzwquT7wEcf6b5lKbueQocAOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847846767808-0sr8ss3p1ai82qdaaiiv1t8nk905mi05.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
